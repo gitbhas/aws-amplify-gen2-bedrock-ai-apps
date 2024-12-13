@@ -243,7 +243,7 @@ function InstagramCaptionsGeneratorComponent() {
                     <CardHeader>
                         <CardTitle>Result</CardTitle>
                         <CardDescription>
-                            The AI generated captions will appear here
+                            The AI generated text will appear here
                         </CardDescription>
                     </CardHeader>
                     <CardContent>
